@@ -1,6 +1,7 @@
 numpy
 pandas
-streamlitmatplotlib
+streamlit
+matplotlib
 
 
 
